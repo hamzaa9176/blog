@@ -1,0 +1,5 @@
+{
+    "title": "how to learn flask",
+    "content": "JSON object literals are surrounded by curly braces {}. JSON object literals contains key/value pairs.Keys and values are separated by a colon.Keys must be strings, and values must be a valid JSON data type:string Each key/value pair is separated by a comma.",
+    "author":"Hamza"
+}
